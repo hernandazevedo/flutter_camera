@@ -1,4 +1,4 @@
-# image_cropper
+# flutter_camera
 
 A new Flutter project.
 
